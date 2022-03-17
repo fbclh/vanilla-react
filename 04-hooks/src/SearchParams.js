@@ -76,6 +76,3 @@ const SearchParams = () => {
 
 export default SearchParams;
 
-/*
- * Do not put hooks inside if statements or loops, never!
- */
