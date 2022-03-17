@@ -1,0 +1,8 @@
+# Ignored files 
+node_modules/
+.parcel-cache/
+dist/
+.env
+.DS_Store
+coverage/
+.vscode/
